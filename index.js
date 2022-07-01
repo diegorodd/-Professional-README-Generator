@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
-const fetch = require("node-fetch");
+// const fetch = require("node-fetch");
 const fs = require("fs");
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
