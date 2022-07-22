@@ -1,11 +1,7 @@
-# undefined
-https://drive.google.com/file/d/1WamR1pKZ-v4k2ppy_HvzGJpD02E2Z6Ry/view
-
-
-![License](https://img.shields.io/badge/label-undefined-informational.svg)
+# README-generator
 
 ## Description 
-its a node.js tool for the back-end
+its a program that helps make code in the command line
 
 ## Table of Contents
   - [Installation](#installation)
@@ -16,20 +12,20 @@ its a node.js tool for the back-end
   - [Questions](#questions)
 
   ## Installation
-  undefined
+  clone the repo and use npm and use node index.js
   
   ## Usage
-  undefined
+  none at the moment !
   
   ## License
-  This application is covered under undefined.
+  This application is covered under none.
   
   ## Contributing
-  undefined
+  n/a for now 
   
   ## Tests
-  undefined
+  none at the moment 
   
   ## Questions
-  Have questions? Contact the developer at dieegoa@icloud.com or [check out their GitHub profile](https://github.com/undefined).
+  Have questions? Contact the developer at dieegoa@icloud.com or [check out their GitHub profile](https://github.com/diegorodd).
 
